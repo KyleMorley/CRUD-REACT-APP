@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Project Info
 
-This project is modelled as a small note like pin board for uploading University subject results using json server to mock a RESTAPI
+This project is modelled as a small  pin board for uploading University subject results using json server to mock a RESTAPI. Refer here for server info https://github.com/typicode/json-server
 
 ## Available Scripts
 

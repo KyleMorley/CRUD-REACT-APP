@@ -14,6 +14,10 @@ In the project directory, you can run:
 
 Installs dependencies required to run this app.
 
+### `npm run server`
+
+Runs json-server on port 4000
+
 ### `npm start`
 
 Runs the app in the development mode.\

@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Project Info
+
+This project is modelled as a small note like pin board for uploading University subject results using json server to mock a RESTAPI
+
 ## Available Scripts
 
 In the project directory, you can run:
